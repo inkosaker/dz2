@@ -1,0 +1,39 @@
+[33mcommit 4c118a37fab5e21ce877902b099cbfb5131732ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlokotkov-ia[m[33m)[m
+Author: inkosaker <lokotokov.iv10@gmail.com>
+Date:   Fri Sep 20 13:38:41 2024 +0300
+
+    Математика
+
+[33mcommit 62256e1e90552e60083173479142608143282940[m
+Author: inkosaker <lokotokov.iv10@gmail.com>
+Date:   Fri Sep 20 13:30:56 2024 +0300
+
+    Добавлены правила игнорирования в .gitignore
+
+[33mcommit 0c1ffd2ed8f76cee85aeff8b1ceb62b758dcac87[m[33m ([m[1;31morigin/lokotkov-ia[m[33m)[m
+Merge: 7daa6c8 45db7a5
+Author: inkosaker <lokotokov.iv10@gmail.com>
+Date:   Fri Sep 20 13:17:50 2024 +0300
+
+    Merge branch 'lokotkov-ia' of https://github.com/inkosaker/dz2 into lokotkov-ia
+    
+    # Conflicts:
+    #       zadanie.txt
+
+[33mcommit 7daa6c8effc0e312e2ca064bbfac420b22c256a6[m
+Author: inkosaker <lokotokov.iv10@gmail.com>
+Date:   Fri Sep 20 10:36:29 2024 +0300
+
+    git pull
+
+[33mcommit 45db7a5cc39b21e5110a65203be6d89baaa0f987[m
+Author: inkosaker <lokotokov.iv10@gmail.com>
+Date:   Fri Sep 20 10:36:29 2024 +0300
+
+    zadanie.txt
+
+[33mcommit c1ae732cc6c8e4b196a48a0e04d6b4639208b011[m[33m ([m[1;32mmaster[m[33m)[m
+Author: inkosaker <lokotokov.iv10@gmail.com>
+Date:   Fri Sep 20 10:01:20 2024 +0300
+
+    file.txt
